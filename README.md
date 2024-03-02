@@ -7,7 +7,7 @@
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-<div class="tenor-gif-embed" data-postid="24147352" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/fresnorock-vavofresno-guerrafresno-lucasfresno-fresno-gif-24147352">Fresnorock Vavofresno GIF</a>from <a href="https://tenor.com/search/fresnorock-gifs">Fresnorock GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <div>
 <a href="https://github.com/JhonnyPosti">
